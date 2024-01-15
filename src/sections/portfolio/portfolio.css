@@ -82,15 +82,15 @@
 
 /* MEDIA QUERIES (phones) */
 @media screen and (max-width: 600px) {
-    .portfolio__categories {
+    .portfolio_categories {
         gap: 0.6rem;
     }
 
-    .btn.cat__btn {
+    .btn.cat_btn {
         padding: 0.7rem 0.8rem;
     }
 
-    .portfolio__projects {
+    .portfolio_projects {
         grid-template-columns: 1fr;
         gap: 1.5rem;
     }
