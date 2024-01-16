@@ -50,7 +50,7 @@ const data = [
         category: "Java",
         image: Image5,
         title: "Jogo da Velha",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
+        desc: "Famoso TicTacToe, onde é possível jogar pelo Terminal da sua IDE. O Try Catch Error foi a forma de detectar se há um vencedor ou empate.",
         github: "https://github.com/valdocijunior/Jogo-da-Velha/",
     },
     {
