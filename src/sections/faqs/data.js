@@ -12,7 +12,7 @@ const data = [
     {
         id: 5,
         question: "Como começar na área?",
-        answer: "Aprendendo o básico de lógica de programação, definir o rumo que você vai querer tomar na área, (acredite, são muitos) e praticar, praticar e praticar. No Youtube existem muito conteúdo bom e gratuito, um salve para o grande Gustavo Guanabara. Na Udemy também é possível encontrar cursos com muitíssima qualidade.",
+        answer: "Aprendendo o básico de lógica de programação, definir o rumo que você vai querer tomar na área, (acredite, são muitos) e praticar, praticar e praticar. No Youtube existe muito conteúdo bom e gratuito, um salve para o grande Gustavo Guanabara. Na Udemy também é possível encontrar cursos com muitíssima qualidade.",
     },
     {
         id: 4,
